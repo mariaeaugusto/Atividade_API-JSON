@@ -1,0 +1,8 @@
+{
+  "produto": {
+    "nome": "Air force",
+    "valor": 759.00,
+    "quantidade": 250 ,
+    "disponivel": true
+  }
+}
